@@ -98,7 +98,7 @@ h1{
         display: block;
         position: absolute;
         top: 600px;
-        left: 15%;
+        left: 40%;
     }
     h1{
         font-size: 22px;
@@ -130,7 +130,7 @@ h1{
         cursor: pointer;
         padding: 10px 25px;
         top: 69px;
-        left: 50%;
+        left: -40%;
     }
   }
 
